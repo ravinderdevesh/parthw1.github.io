@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to parthw1.github.io
 
 You can use the [editor on GitHub](https://github.com/parthw1/parthw1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
